@@ -1,4 +1,4 @@
-<h1 align="center">Hi fellas, I'm Uriel, AKA Leiru CAT DEVELOPER, Are you watching for something?</h1>
+<h2>Hi fellas, I'm Uriel, AKA Leiru CAT DEVELOPER, Are you watching for something?</h2>
 <img align="center" src="https://www.gifcen.com/wp-content/uploads/2022/04/wallpaper-gif-4.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leiru-cat-developer&label=Profile%20views&color=0e75b6&style=flat" alt="leiru-cat-developer" /> </p>
 
