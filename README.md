@@ -2,7 +2,7 @@
 <img align="center" src="https://www.gifcen.com/wp-content/uploads/2022/04/wallpaper-gif-4.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leiru-cat-developer&label=Profile%20views&color=0e75b6&style=flat" alt="leiru-cat-developer" /> </p>
 
-<h3 align="center">I'm a passionate developer who loves to learn new things, I love to interact with languages who interacts in real life, like Arduino, and also all that frond and backend development.</h3>
+<h3 align="center">I'm a passionate developer, I love to interact with languages who interacts in real life, like Arduino, and also all that frondend and backend development.</h3>
 
 - 🌱 I’m currently learning: **React, JS, HTML, CSS, VUE**
 
