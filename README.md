@@ -91,16 +91,22 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<div align="center">
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=leiru-cat-developer&show_icons=true&locale=en&layout=compact"
         alt="leiru-cat-developer" /></p>
+</div>
 
+<div align="center">
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=leiru-cat-developer&show_icons=true&locale=en"
         alt="leiru-cat-developer" /></p>
+</div>
 
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leiru-cat-developer&"
         alt="leiru-cat-developer" /></p>
+</div>
 
 <h2>. . .</h2>
 
