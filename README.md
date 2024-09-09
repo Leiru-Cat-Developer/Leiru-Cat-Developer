@@ -7,7 +7,7 @@
         alt="leiru-cat-developer" /> </p>
 
 <h3 align="center">I'm a passionate developer, I love to interact with languages who interacts in real life, like
-    Arduino, and also all that frondend and backend development.</h3>
+    Arduino, and also all that frontend and backend development.</h3>
 
 - 🌱 I’m currently learning: **React, JS, HTML, CSS, VUE**
 
