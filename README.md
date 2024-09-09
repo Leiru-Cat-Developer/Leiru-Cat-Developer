@@ -1,8 +1,8 @@
-no[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=700&color=E122F7&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Uriel;AKA+LEIRU+CAT+DEVELOPER;Are+you+watching+for+something%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=700&color=E122F7&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Uriel;AKA+LEIRU+CAT+DEVELOPER;Are+you+watching+for+something%3F)](https://git.io/typing-svg)
 
 
 <img align="center" src="https://www.gifcen.com/wp-content/uploads/2022/04/wallpaper-gif-4.gif" />
-<p align="left">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=leiru-cat-developer&label=Profile%20views&color=0e75b6&style=flat"
         alt="leiru-cat-developer" /> </p>
 
@@ -17,7 +17,7 @@ no[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700
 
 - ⚡ Fun fact: **Cat's are Aliens**
 
-<h3 align="left">SKILLS, NOT FULL-STACK BUT I DOMINATE ALL THESE PROGRAMMING LENGUAGES, I'M STILL A JR.</h3>
+<h3 align="left">SKILLS, NOT A FULL-STACK DEV, BUT I DOMINATE ALL THESE PROGRAMMING LENGUAGES, I'M STILL A JR.</h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
             alt="android" width="40" height="40" /> </a> <a href="https://www.arduino.cc/" target="_blank"
@@ -91,11 +91,9 @@ no[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p><img align="left"
+<p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=leiru-cat-developer&show_icons=true&locale=en&layout=compact"
         alt="leiru-cat-developer" /></p>
-<br></br>
-
 
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=leiru-cat-developer&show_icons=true&locale=en"
