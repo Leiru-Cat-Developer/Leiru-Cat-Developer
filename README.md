@@ -109,4 +109,4 @@
 ![IMG5](https://github.com/user-attachments/assets/2fbb1e56-7ef7-43b2-b33e-ad5c12c29d3e)
 ![IMG2](https://github.com/user-attachments/assets/c120074e-3ffd-4af5-bea8-d4fa6869d743)
 
-[![Spotify](https://novatorem-gczvrhc3p-uriel-maldonado-avalos-projects.vercel.app/api/spotify)](https://open.spotify.com/user/Melisma)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cdngrn2nrfrswwydyn92krbnh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
