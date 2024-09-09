@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=700&color=E122F7&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Uriel;AKA+LEIRU+CAT+DEVELOPER;Are+you+watching+for+something%3F)](https://git.io/typing-svg)
+no[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=700&color=E122F7&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Uriel;AKA+LEIRU+CAT+DEVELOPER;Are+you+watching+for+something%3F)](https://git.io/typing-svg)
 
 
 <img align="center" src="https://www.gifcen.com/wp-content/uploads/2022/04/wallpaper-gif-4.gif" />
@@ -87,7 +87,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=leiru-cat-developer"
             alt="leiru-cat-developer" /></a> </p>
-<br></br>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -95,6 +94,8 @@
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=leiru-cat-developer&show_icons=true&locale=en&layout=compact"
         alt="leiru-cat-developer" /></p>
+<br></br>
+
 
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=leiru-cat-developer&show_icons=true&locale=en"
