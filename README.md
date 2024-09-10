@@ -123,7 +123,7 @@
   
 </div>
 
-<h2>Snake 🐍</h2>
+<h2>I copy this snake 🐍 and i wanted to show you . . .</h2>
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osiristape/osiristape/output/github-contribution-grid-snake-dark.svg">
