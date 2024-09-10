@@ -6,18 +6,17 @@
     <img src="https://komarev.com/ghpvc/?username=leiru-cat-developer&label=Profile%20views&color=0e75b6&style=flat"
         alt="leiru-cat-developer" /> </p>
 
-<h3 align="center">I'm a passionate developer, I love to interact with languages who interacts in real life, like
-    Arduino, and also all that frontend and backend development.</h3>
+<h3 align="center">I like programming, discover and rediscover stuff from this geek world</h3>
 
 - 🌱 I’m currently learning: **React, JS, HTML, CSS, VUE**
 
 - 💬 Ask me about: **JAVA, C++, PHYTON, ARDUINO, C, MySQL (Oracle or MariaDB), PHP**
 
-- 📫 Would you love to talk?: **blowitup2001@gmail.com**
+- 📫 Would you like to ask me something? Contact me: **blowitup2001@gmail.com**
 
 - ⚡ Fun fact: **Cat's are Aliens**
 
-<h3 align="left">SKILLS, NOT A FULL-STACK DEV, BUT I DOMINATE ALL THESE PROGRAMMING LENGUAGES, I'M STILL A JR.</h3>
+<h3 align="left">I'm still a jr, but right now, i have enough knowledge about these programming lenguages</h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
             alt="android" width="40" height="40" /> </a> <a href="https://www.arduino.cc/" target="_blank"
