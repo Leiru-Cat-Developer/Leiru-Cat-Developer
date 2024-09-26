@@ -6,10 +6,15 @@
 <h3 align="center">
     I like programming, discover and rediscover stuff from this geek world
 </h3>
+
 - 🌱 I’m currently learning: **React, JS, HTML, CSS, VUE**
+
 - 💬 Ask me about: **JAVA, C++, PHYTON, ARDUINO, C, MySQL (Oracle or MariaDB), PHP**
+
 - 📫 Would you like to ask me something? Contact me: **blowitup2001@gmail.com**
+
 - ⚡ Fun fact: **Cat's are Aliens**
+
 <h3 align="left">
     I'm still a jr, learning logic, how to apply this logic and trying to do self projects
 </h3>
@@ -58,56 +63,68 @@
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
     </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a> <a href="https://www.oracle.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-            width="40" height="40" /> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
-            width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a> <a href="https://reactnative.dev/" target="_blank"
-        rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-            alt="vuejs" width="40" height="40" /> </a> </p>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
+    </a> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+    </a>
+    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
+    </a> 
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> 
+    </a> 
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> 
+    </a> 
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> 
+    </a> 
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> 
+    </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> 
+    </a> 
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /> 
+    </a> 
+</p>
+
 <h1 align="center">SOME EXTRA MATERIAL</h1>
+
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=leiru-cat-developer" alt="leiru-cat-developer" />
     </a> 
 </p>
+
 <p align="left"> 
     <a href="https://twitter.com/" target="blank">
         <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
     </a> 
 </p>
+
 <div align="center">
-<p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=leiru-cat-developer&show_icons=true&locale=en&layout=compact"
-        alt="leiru-cat-developer" /></p>
+    <p>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leiru-cat-developer&show_icons=true&locale=en&layout=compact" alt="leiru-cat-developer" />
+    </p>
 </div>
 
 <div align="center">
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=leiru-cat-developer&show_icons=true&locale=en"
-        alt="leiru-cat-developer" /></p>
+    <p>&nbsp;
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=leiru-cat-developer&show_icons=true&locale=en" alt="leiru-cat-developer" />
+    </p>
 </div>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leiru-cat-developer&"
-        alt="leiru-cat-developer" /></p>
+    <p>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leiru-cat-developer&"alt="leiru-cat-developer" />
+    </p>
 </div>
 
 <h2>. . . MORE . . .</h2>
@@ -137,6 +154,4 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-
 </div>
