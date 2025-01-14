@@ -121,11 +121,6 @@
     </p>
 </div>
 
-<div align="center">
-    <p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leiru-cat-developer&"alt="leiru-cat-developer" />
-    </p>
-</div>
 
 <h2>. . . MORE . . .</h2>
 
