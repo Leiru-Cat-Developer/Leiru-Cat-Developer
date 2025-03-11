@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=leiru-cat-developer&label=Profile%20views&color=0e75b6&style=flat" alt="leiru-cat-developer"/> 
 </p>
 <h3 align="center">
-    I like programming, discover and rediscover stuff from this geek world
+    I like programming, discover and rediscover stuff
 </h3>
 
 - 🌱 I’m currently learning: **React, JS, HTML, CSS, VUE**
