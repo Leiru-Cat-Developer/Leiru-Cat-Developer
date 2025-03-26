@@ -4,19 +4,17 @@
     <img src="https://komarev.com/ghpvc/?username=leiru-cat-developer&label=Profile%20views&color=0e75b6&style=flat" alt="leiru-cat-developer"/> 
 </p>
 <h3 align="center">
-    I like programming, discover and rediscover stuff
+    I like programming, discover new projects and searching for ideas, I would hope someday to be really good at what I'm learning right now
 </h3>
 
-- 🌱 I’m currently learning: **React, JS, HTML, CSS, VUE**
+- 🌱 I’m currently learning: **JS, HTML, CSS, REACT**
 
-- 💬 Ask me about: **JAVA, C++, PHYTON, ARDUINO, C, MySQL (Oracle or MariaDB), PHP**
-
-- 📫 Would you like to ask me something? Contact me: **blowitup2001@gmail.com**
+- 💬 Ask me about: **JAVA, C++, PHYTON, ARDUINO, MySQL or PHP**
 
 - ⚡ Fun fact: **Cat's are Aliens**
 
 <h3 align="left">
-    I'm still a jr, learning logic, how to apply this logic and trying to do self projects
+    I'm still a jr, so please, if you're hiring, even if is not me, we're noobs so we need experience and if you don't have any opportunities, then, how do I supposed to be an expert? Huh
 </h3>
 <p align="center"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
