@@ -14,8 +14,11 @@
 - ⚡ Fun fact: **Cat's are Aliens**
 
 <h3 align="left">
-    I'm still a jr, so please, if you're hiring, even if is not me, we're noobs so we need experience and if you don't have any opportunities, then, how do I supposed to be an expert? Huh
+    I'm still a jr, so please, if you're hiring, even if is not me, we're noobs so we need experience and if you don't give us any opportunities, then, how do I supposed to be an expert? Huh, just hear me out . . .
 </h3>
+
+<br></br>
+
 <p align="center"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /> 
