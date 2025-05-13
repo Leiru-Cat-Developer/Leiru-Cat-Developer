@@ -21,6 +21,7 @@
 
 <h1 align="center">I ALREADY KNOW</h1>
 <br></br>
+<p align="center">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> 
     </a>
@@ -54,6 +55,7 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
     </a>
+<p>
 <br></br>
 
 <h1 align="center">I'M CURRENTLY LEARNING</h1>
@@ -66,9 +68,7 @@
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"alt="aws" width="40" height="40" />
     </a>  
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" /> 
     </a> 
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
@@ -105,12 +105,6 @@
 <br></br>
 
 <h1 align="center">SOME EXTRA MATERIAL</h1>
-
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=leiru-cat-developer" alt="leiru-cat-developer" />
-    </a> 
-</p>
 
 <p align="left"> 
     <a href="https://twitter.com/" target="blank">
