@@ -45,13 +45,13 @@ Frontend developer currently working on personal projects, looking for collabs a
 <br></br>
 <br></br>
 <br></br>
-<br></br>
-<br></br>
 
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=leiru-cat-developer&show_icons=true&locale=en" alt="leiru-cat-developer"/>
 </div>
 
+<br></br>
+<br></br>
 <br></br>
 <br></br>
 <br></br>
