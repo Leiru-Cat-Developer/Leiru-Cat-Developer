@@ -50,7 +50,7 @@ Frontend developer currently working on personal projects, looking for collabs a
 ![IMG9](https://github.com/user-attachments/assets/3dbbc1ef-a659-4bd5-9981-0a7186ce36d3)
 ![IMG5](https://github.com/user-attachments/assets/2fbb1e56-7ef7-43b2-b33e-ad5c12c29d3e)
 ![IMG2](https://github.com/user-attachments/assets/c120074e-3ffd-4af5-bea8-d4fa6869d743)
-  
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
