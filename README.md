@@ -1,7 +1,5 @@
 <style>
-    a {
-        margin-left: 10px;
-    }
+    
 </style>
 
 <!-- Text Animation -->
