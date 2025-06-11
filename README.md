@@ -7,15 +7,11 @@
     I like programming, discover new projects and searching for ideas, I would hope someday to be really good at what I'm learning right now
 </h3>
 
-- 🌱 I’m currently learning: **JS, HTML, CSS, REACT**
+- 🌱 I’m currently learning: **REACT**
 
 - 💬 Ask me about: **JAVA, C++, PHYTON, ARDUINO, MySQL or PHP**
 
-- ⚡ Fun fact: **Cat's are Aliens**
-
-<h3 align="left">
-    I'm still a jr, so please, if you're hiring, even if is not me, we're noobs so we need experience and if you don't give us any opportunities, then, how do I supposed to be an expert? Huh, just hear me out . . .
-</h3>
+- ⚡ Fun fact: **Work in team is much more fun**
 
 <br></br>
 
