@@ -1,7 +1,3 @@
-<style>
-    
-</style>
-
 <!-- Text Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=700&color=E122F7&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Uriel;AKA+LEIRU+CAT+DEVELOPER;Are+you+watching+for+something%3F)](https://git.io/typing-svg)
 
