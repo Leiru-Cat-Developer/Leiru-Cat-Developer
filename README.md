@@ -37,12 +37,12 @@ Frontend developer currently working on personal projects, looking for collabs a
 <h2>GITHUB STATS</h2>
 
 <span>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leiru-cat-developer&show_icons=true&locale=en&layout=compact" alt="leiru-cat-developer" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=leiru-cat-developer&show_icons=true&locale=en" alt="leiru-cat-developer" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leiru-cat-developer&show_icons=true&locale=en&layout=compact" alt="leiru-cat-developer"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=leiru-cat-developer&show_icons=true&locale=en" alt="leiru-cat-developer"/>
 </span>
 
-<div aling="center">
-    
+<div align="center">
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cdngrn2nrfrswwydyn92krbnh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ![IMG9](https://github.com/user-attachments/assets/64a17374-9824-48e7-b3f2-cd7d0edea6e5)
