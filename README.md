@@ -9,11 +9,6 @@
     <img src="https://komarev.com/ghpvc/?username=leiru-cat-developer&label=Profile%20views&color=0e75b6&style=flat" alt="leiru-cat-developer"/> 
 </p>
 
-<!-- Text -->
-<h3 align="center">
-    I like programming, discover new projects and searching for ideas, I would hope someday to be really good at what I'm learning right now
-</h3>
-
 - 🌱 I’m currently learning: **REACT**
 
 - ⚡ Fun fact: **---**
