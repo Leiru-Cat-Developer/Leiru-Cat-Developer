@@ -12,6 +12,7 @@ Frontend developer currently working on personal projects, looking for collabs a
     - <img width=20px src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif">&nbsp;**NODE JS**
 - ⭐ Want me to codify or help?, don't be shy, contact me . . .
     - <a href="blowitup2001@gmail.com">blowitup2001@gmail.com 📫</a>
+    - <a href="https://www.linkedin.com/in/uriel-maldonado-avalos-3994ba223/">LINKEDIN ⏹</a>
 
 <h2>SKILLS ARE AS FOLLOWS</h2>
 
