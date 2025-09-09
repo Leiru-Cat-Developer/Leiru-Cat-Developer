@@ -13,6 +13,7 @@ Frontend developer currently working on personal projects, looking for collabs a
 - ⭐ Want me to codify or help?, don't be shy, contact me . . .
     - <a href="blowitup2001@gmail.com">blowitup2001@gmail.com 📫</a>
     - <a href="https://www.linkedin.com/in/uriel-maldonado-avalos-3994ba223/">LINKEDIN ⏹</a>
+    - <a href="https://leiru-kitty.vercel.app/">See my projects on my personal web page 🌐</a>
 
 <h2>SKILLS ARE AS FOLLOWS</h2>
 
