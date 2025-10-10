@@ -4,7 +4,7 @@
 
 <img width=30px src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png">&nbsp;***ABOUT ME***
 
-Frontend developer currently working on personal projects, looking for collabs and formal jobs to improve.
+Software engineer currently working on personal projects, looking for collabs and formal jobs to improve.
 
 - 🌱 Currently learning:
     - <img width=20px src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">&nbsp;**REACT**
