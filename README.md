@@ -38,28 +38,6 @@ Software engineer currently working on personal projects, looking for collabs an
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </span>
 
-<h2>GITHUB STATS</h2>
-
-<div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leiru-cat-developer&show_icons=true&locale=en&layout=compact" alt="leiru-cat-developer"/>
-</div>
-
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-
-<div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=leiru-cat-developer&show_icons=true&locale=en" alt="leiru-cat-developer"/>
-</div>
-
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cdngrn2nrfrswwydyn92krbnh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
