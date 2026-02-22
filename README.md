@@ -38,6 +38,10 @@ Software engineer currently working on personal projects, looking for collabs an
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </span>
 
+<br/>
+<br/>
+<br/>
+
 <div align="center">
     
 ![IMG9](https://github.com/user-attachments/assets/64a17374-9824-48e7-b3f2-cd7d0edea6e5)
