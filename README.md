@@ -39,9 +39,7 @@ Software engineer currently working on personal projects, looking for collabs an
 </span>
 
 <div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cdngrn2nrfrswwydyn92krbnh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
+    
 ![IMG9](https://github.com/user-attachments/assets/64a17374-9824-48e7-b3f2-cd7d0edea6e5)
 ![IMG2](https://github.com/user-attachments/assets/20e11f4c-bdb9-42ba-9ef6-25fa48fdbeea)
 ![IMG9](https://github.com/user-attachments/assets/3dbbc1ef-a659-4bd5-9981-0a7186ce36d3)
